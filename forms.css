@@ -1,0 +1,13 @@
+form{
+  background-color:;
+  width:400px ;
+  color: orange;
+}
+input,textarea{
+  width: 100%;
+  padding: 5px 0 5px 15px;
+  background-color:#eee;
+  color: orange;
+
+  border: 1px solid aqua;
+}
